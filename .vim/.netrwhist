@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/fishz/Documents/kku/2014/spring/operatingSystem/hw/0416'
+let g:netrw_dirhist_2='/home/fishz/Documents/kku/2014/spring/database/term'
+let g:netrw_dirhist_3='/home/fishz/tmp/5/class-supporter/test'
+let g:netrw_dirhist_4='/home/fishz/sm'
